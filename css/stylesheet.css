@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#container1 {
+width: 100%;
+}
+
+.center {
+	width: 1200px;
+	margin: 0px auto;
+}
+
+.col-sm-4 {
+	border: #f3f3f3  1px solid;
+	max-width: 603px;
+	width: 100%;
+	max-height: 343px;
+}
+.text p{
+	padding-left: 5px;
+	margin-bottom: 0px;
+}
+.text {
+	width: 33%;
+	
+}
